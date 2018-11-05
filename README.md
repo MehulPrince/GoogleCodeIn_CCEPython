@@ -5,3 +5,5 @@ This my first python project in GitHub.
 * Ask the user for his/her name and then print "Hello (name), please to meet you!": HelloName.py
 * Print that name backwards : ReverseName.py
 
+All above projects are put into one file : CCEPython_project.py
+
